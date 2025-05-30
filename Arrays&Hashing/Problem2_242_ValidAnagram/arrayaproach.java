@@ -1,3 +1,4 @@
+//only works for lowercase
 import java.util.Arrays;
 public class arrayaproach {
     public static boolean isAnagram(String s, String t){
