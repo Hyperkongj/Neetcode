@@ -1,7 +1,7 @@
 package Problem4_49_GroupAnagrams;
 import java.util.*;
 
-public class Sort {
+public class sort {
 
     public static List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
