@@ -1,5 +1,5 @@
 package Problem3_1_TwoSum;
-import java.util.Arrays;
+import java.util.Arrays;//imports arrays from collection
 import java.util.HashMap;
 
 public class hashmapapproach{
