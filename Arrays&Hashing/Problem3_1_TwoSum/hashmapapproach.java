@@ -1,6 +1,6 @@
 package Problem3_1_TwoSum;
 import java.util.Arrays;//imports arrays from collection
-import java.util.HashMap;
+import java.util.HashMap;//imports hashmap
 
 public class hashmapapproach{
     public static int[] checker(int[] nums, int target){
